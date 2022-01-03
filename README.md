@@ -12,9 +12,6 @@
   <img align="center" alt="Ana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <div align="right">
-  <img alt="Ana-pic" height="150" style="border-radius:50px;" src="https://im5.ezgif.com/tmp/ezgif-5-6f3500c9c018.gif">
-  </div>
 </div>
    
   
